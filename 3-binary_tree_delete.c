@@ -1,4 +1,4 @@
-#include "binary_tress.h"
+#include "binary_trees.h"
 
 /**
  * binary_tree_delete - A function that deletes a binary tree.
